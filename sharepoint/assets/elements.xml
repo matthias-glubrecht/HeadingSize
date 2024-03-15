@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+    <CustomAction
+        Title="EnlargeHeading"
+        Location="ClientSideExtension.ApplicationCustomizer"
+        ClientSideComponentId="19382e81-4458-451e-b261-8d11d46dafae"
+        ClientSideComponentProperties="{}">
+    </CustomAction>
+</Elements>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+    <ClientSideComponentInstance
+        Title="EnlargeHeading"
+        Location="ClientSideExtension.ApplicationCustomizer"
+        ComponentId="19382e81-4458-451e-b261-8d11d46dafae"
+        Properties="{}">
+    </ClientSideComponentInstance>
+</Elements>
